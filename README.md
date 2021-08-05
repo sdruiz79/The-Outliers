@@ -1,2 +1,2 @@
-# The-Outliers
+# The Outliers
 Project 1
